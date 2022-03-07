@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52972456-eb75-4eb0-8a2f-dd6649d7d5fa" name="Changes" comment="print 5">
       <change afterPath="$PROJECT_DIR$/ДЗ_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Денис/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Бзат.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_py.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646587378072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="print 5">
+      <created>1646674604144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646674604144</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
