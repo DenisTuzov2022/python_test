@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="52972456-eb75-4eb0-8a2f-dd6649d7d5fa" name="Changes" comment="print 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/ДЗ_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/ДЗ_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Денис/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Денис/28.02.2022.py" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +54,7 @@
       <recent name="$PROJECT_DIR$/дз" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.03.03.2022">
     <configuration name="03.03.2022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test" />
@@ -71,6 +77,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager" selected="Python.ДЗ_1">
+>>>>>>> origin/master
     <configuration name="28.02.2022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,9 +145,14 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.03.03.2022" />
         <item itemvalue="Python.28.02.2022" />
         <item itemvalue="Python.ДЗ_1" />
+=======
+        <item itemvalue="Python.ДЗ_1" />
+        <item itemvalue="Python.28.02.2022" />
+>>>>>>> origin/master
         <item itemvalue="Python.main_py" />
       </list>
     </recent_temporary>
@@ -194,6 +208,7 @@
       <option name="project" value="LOCAL" />
       <updated>1646675732293</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00007" summary="print 5">
       <created>1646757045282</created>
       <option name="number" value="00007" />
@@ -216,6 +231,9 @@
       <updated>1647443592508</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+=======
+    <option name="localTasksCounter" value="7" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
